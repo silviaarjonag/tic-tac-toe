@@ -1,4 +1,5 @@
-**Tic-Tac-Toe Game**
+_**Tic-Tac-Toe Game**_
+
 A simple Tic-Tac-Toe game in Java where the player competes against the computer. The game results are automatically saved to a text file.
 
 **Features**
@@ -9,8 +10,11 @@ A simple Tic-Tac-Toe game in Java where the player competes against the computer
 - Reset functionality for new rounds
 
 **Technologies Used**
+
 Programming Language: Java
+
 GUI Library: Swing
+
 File Handling: BufferedWriter
 
 
